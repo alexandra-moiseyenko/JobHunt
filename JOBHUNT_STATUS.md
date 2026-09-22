@@ -25,8 +25,8 @@ The user asked to find every matching job on LinkedIn/Indeed in London, score th
 
 1. Lloyds — Data Science and AI Graduate Scheme — https://www.lloydsbankinggrouptalent.com/our-opportunities/graduates/data-science-and-ai-graduate-scheme/
 2. Lloyds — Software Engineer Graduate Scheme — https://www.lloydsbankinggrouptalent.com/our-opportunities/graduates/software-engineer-graduate-scheme/
-3. Bank of America — Global Tech Software Engineer — https://www.linkedin.com/jobs/view/4468473366/ (long tracking URL, see chat history for full link)
-4. Saragossa — Python Engineer — https://www.linkedin.com/jobs/view/4467362707/ (long tracking URL, see chat history for full link)
+3. Bank of America — Global Tech Software Engineer — https://www.linkedin.com/jobs/view/4468473366/
+4. Saragossa — Python Engineer — https://www.linkedin.com/jobs/view/4467362707/
 5. Amazon — Software Development Engineer 2026 — https://amazon.jobs/en/jobs/10408763/software-development-engineer-2026
 6. CERN (via Gradcracker/Zurich) — Change and Technology Management Graduate Programme 2027 — https://www.gradcracker.com/hub/432/zurich/graduate-job/83208/change-and-technology-management-graduate-programme-2027
 7. CERN — Full Stack Developer — https://www.gradcracker.com/hub/759/cern/graduate-job/82917/full-stack-developer
